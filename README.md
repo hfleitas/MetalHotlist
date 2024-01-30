@@ -1,7 +1,10 @@
 # MetalHotlist
-Database Source Control - A music sample.
+## Database Source Control - A music sample.
 
 Usually when I demo this, I edit the definition of the procs by changing a data type to deploy.
+
+
+## Description
 
 The database project in this repo was created using Visual Studio. The project target is set to SQL Server 2019 but can be configured for Azure SQL DB, among other options of SQL in Azure. This sample repo includes an example of source control for data (ie. master data, settings, lookup table, etc). 
 

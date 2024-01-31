@@ -14,4 +14,6 @@ Generally, I don't recommend trying to manage data of many lookup tables using t
 
 
 ## Additional Resources
-- http://aka.ms/azuredbemulator
+- Repo [hiramdb](https://github.com/hfleitas/hiramdb)
+- Repo [refreshqa](https://github.com/hfleitas/refreshqa)
+- https://aka.ms/azuredbemulator
